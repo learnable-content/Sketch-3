@@ -18,3 +18,6 @@ For this project, we'll be using Helvetica Neue and Georgia, both system fonts a
 ## Images
 We'll be getting our images from [Unsplash](https://unsplash.com), a photo library that includes high-quality creative commons zero (aka free to use) images for your projects.
 
+## Icons
+We'll be using the icons from http://ionicons.com
+
