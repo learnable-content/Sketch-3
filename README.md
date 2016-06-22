@@ -22,7 +22,6 @@ This includes things like the scope of the project, timeline, and the budget req
 - Determine areas of importance
 - Wireframe
 - Design
-- 
 
 
 
