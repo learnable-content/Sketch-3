@@ -1,6 +1,6 @@
 # Working with Icons
 
-In this video, you'll learn how to import icons into Sketch and use them in your designs
+In this video, you'll learn how to import icons into Sketch and use them in your designs.
 
-http://ionicons.com
+For our project, we'll be using: http://ionicons.com
 
