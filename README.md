@@ -18,7 +18,7 @@ Moodboard → Style Guide → Mockup
 
 Here is the style tile for the FreelanceJump redesign. As you can see, it's much more simple than the description above. There are a handful of objectives, a color palette, font famlies and sizes, and a couple of buttons.
 
-![](Sketch-3/Style-Tile.png)
+![](Style-Tile.png)
 
 
 **Resources:**
