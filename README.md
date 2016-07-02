@@ -1,13 +1,11 @@
 # Creating Typography Styles
 
-## Selecting Fonts
-
-### How to Pick a Font
+## Selecting Fonts for Your Project
 Make sure the tone of the font is appropriate for your project and the feeling associated with your project. For example, if you're designign a website for a law firm, you would want to use fonts that are more traditional, and have a more professional look. Alternatively, if you were designign an app for pre-teens, you would want to use fonts that are "loud" and attract attention.
 
 Futher reading: https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
 
-### Pairing fonts
+## Pairing fonts
 When you're using multiple font families for a project, you need to make sure they work well together. Make sure the two fonts contrast each other, but also make sure they look good together.
 
 **Some Tips:**
@@ -23,7 +21,8 @@ A heading font should be legible, draw attention, and have contrast with the bod
 
 ### Type Scale
 A Type scale is a system to create different font sizes for different headings (e.g. H1, H2, H3, etc.)
-http://type-scale.com
+
+**Resource:** http://type-scale.com
 
 ## Body
 It's usually a good idea to have at least a 14px-16px size font for your body font, and create a generous line-height for maximum legibility. For this project, we'll be using a 16px base font to use for the text body with a line-height of 1.5 (or 24px).
