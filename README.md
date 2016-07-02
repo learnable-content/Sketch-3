@@ -42,6 +42,11 @@ INSERT HERE
 
 
 ### Designing the Other Blog Posts
-The other blog posts will be very similar to the featured blog post, but the headline size will 24xp, line height of 32px, and no character spacing. Use these setting and create a new text style called "H2".
+The other blog posts will be very similar to the featured blog post, but the headline size will 24xp, line height of 32px, and no character spacing. Use these setting and create a new text style called "H2". The underline banner should have a height of 2 px, and have a spacing of 8px on the top and bottom.
+
+You can create multiple blog posts of thse, with different categories and headlines. Make sure you match the color of the underline banner with the corresponding category. For this mobile view, I'll limit it to 8 blog posts, not counting the featured post.
 
 ### Designing Load More Button
+The load more button consists of two things: white text, and a blue rectangle with a drop shadow. For the white text, create a font size of 16px and create a text style of "H3/white-centered", for the button, create a rectangle using the base color of blue, and changed the height to 36px. Then, add a shadow of 4px with 0 blur, with a color of dark blue (hex: #3B73B4)
+
+
