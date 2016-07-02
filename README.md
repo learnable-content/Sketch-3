@@ -5,6 +5,8 @@ In this section, we'll create the content areas (or sidebar widgets) for mobile 
 ### Categories
 We'll create the catoegories section, and keep one of the categories daker to show an active state.
 
+![](5-3-categories.png)
+
 ### Social Icons
 We'll use Ionicons to paste in social icons. For this project, we'll be using Facebook, Twitter, and Instagram. We'll also use the correct brand colors for every icon, which you can find at http://brandcolors.net/
 
