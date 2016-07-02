@@ -1,5 +1,5 @@
 # Creating a Mobile Wireframe
-In this video, we'll create a wireframe for a mobile scree size.
+In this video, we'll create a wireframe for a mobile screen size.
 
 ![](Wireframe-Mobile.png)
 
