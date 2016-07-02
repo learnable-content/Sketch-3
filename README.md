@@ -5,6 +5,8 @@ Wireframing is an important in the design process that helps you define your inf
 
 A common design workflow is sketchign out ideas onf pencil and paper, then use the sketches to make digital wireframes.
 
+![](3-1-Wireframing-Overview.png)
+
 ### Different Wireframing Software
 
 - [Sketch](https://www.sketchapp.com)
