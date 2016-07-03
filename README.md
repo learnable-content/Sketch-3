@@ -16,3 +16,10 @@ Site Inpire is a great source of inspiration for wbesite that agencies have done
 
 ###[SitePoint Tutorials](https://www.sitepoint.com/premium)
 Last but not least, make sure to watch other courses and screencasts on Site Point. It includes everything from design to development tutorials to help improve your skills.
+
+---
+
+Thanks again for watching this course! I hope you enjoyed it and got a lot of value out of it!
+
+If you need any help, feel free to reach out on twitter: [@arasheedphoto](https://twitter.com/arasheedphoto)
+
