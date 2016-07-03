@@ -17,3 +17,7 @@ It's recommended that you deliver your project in a zipped folder that includes:
 - The Sketch document
 - Exported assets
 - Text document Notes about for the devloper (e.g. fonts in use, hover states, etc.)
+
+This is how the project folder for our site looks like: 
+
+![](7-2-folder.png)
