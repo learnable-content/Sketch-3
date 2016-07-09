@@ -17,7 +17,8 @@ When you're using multiple font families for a project, you need to make sure th
 - Freight Sans & Freight Text
 - Helvetica Neue & Georgia
 - Avenir & Minion
-- Istok Web and Lora
+- Istok Web and Lora (Google Fonts)
+- Montserrat and Crimson Text (Google Fonts)
 
 Further Reading: http://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706
 Must-try Font Pairings: https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/
