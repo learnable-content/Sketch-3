@@ -1,5 +1,5 @@
 # Principles of Design / Tips & Tricks
-Before we get into designing, we’ll cover some basic principles of design as well as some tips for an easier design process.
+Before we get into designing with Sketch, we’ll cover some basic principles of design as well as some tips for an easier design process.
 
 ## Principles of Good Design
 https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf
@@ -13,6 +13,6 @@ https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf
 
 ## Design Tips:
 
-- Use a 12 Column Layout
+- Use a 12 Column Layout (We'll use Sketch's Layout Settings for this).
 - Designing on an 8pt. Grid
 - Design at 1x. 
