@@ -18,7 +18,7 @@ Next, open up layout settings, and change the settings to the following:
 ![](5-2-layout-settings.png)
 
 ### Designing the Featured Blog Post
-The feautred post is the element that will grab the immediate attention of the visitor.
+The featured post is bigger than any other blgo post and is supposed to grab the immediate attention of the visitor. This is very similar to the front page headline story you see on newspapers.
 
 #### Category
 We'll first create the category tag, in this case, it'll will be "business". 
@@ -29,8 +29,10 @@ Next, change the color to the base color of blue, and create this into a text-st
 #### Headline
 To create the headline, we'll create another text layer, and type in "The Sure-Fire Way to Get Paid on Time Every Time", and choose "Helvetica Neue" for the typeface, choose a font size of 32px, and a character spacing of 0.5, leaving the line height alone, and change the color to #4A4A4A (we'll be using this shade of gray for most of the text in our design). Then make sure to turn on the layout guide by pressing "ctrl + l" and size the headline within the cofines of the 4 columns. In this case, the width should be 328px. Space this 8px underneath the category tag. Next, create this into a shared text style called "H1-Mega/Mobile".
 
+Alternatively, you can also use the Craft Plugin to create dummy content if you're not set on the exact headlines I'm using. Click on the Type (the bottom icon in Craft with a "T")and click Headlines > Technology.
+
 #### Banner and Meta
-To create the underlin banner, you simply need to create a rectangle by pressing "r", make it hte same blue as the color of the category, and change the height to 8px. Place this 16px under the headline.
+To create the underlin banner, you simply need to create a rectangle by pressing "r", make it hte same blue as the color of the category, and change the height to 8px. Place this 16px under the headline. You can quickly measure dinstances by hovering over an object and pressing the Alt key.
 
 To create the meta tags, we'll first need to copy/paste in two icons from the Ionicons folder, ion-clock, and ion-chatbubble. After you've imported them onto your artboard, change their dimensions to 16x16 pixels. Next, two text layers, one with a date (e.g. January 5, 2016), and the other with the number of comments your post would have (e.g. 0 Comments). Next, plave them next to each of the appropriate icons with a spacing of 8px each, and put them 16px underneath the underline banner.
 
