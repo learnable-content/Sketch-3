@@ -12,7 +12,7 @@ We'll use Ionicons to paste in social icons. For this project, we'll be using Fa
 
 ### Resources
 
-For creating the resources div, we'll create a content box with multiple layers, in the following order (from top to bottom):
+For creating the resources component, we'll create a content box with multiple layers, in the following order (from top to bottom):
 - Text and Button
 - Overlay layer with a dakr gray fill and 65% opacity
 - Blur Layer - A rectangle without fill and a background blur checked on with a 2px radius
