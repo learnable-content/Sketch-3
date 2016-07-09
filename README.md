@@ -1,5 +1,7 @@
 # Working with Color Palettes
 
+While colors and branding are usually chosen by clients, we'll be doing this ourselves as it's our project.
+
 Before you start with any color, you should get better with using grayscale design to create areas of focus, and then slowly start to add color to it. Don't use color as a crutch.
 
 ## Use a Base Color
