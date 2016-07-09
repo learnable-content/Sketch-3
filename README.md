@@ -13,11 +13,22 @@ When you're using multiple font families for a project, you need to make sure th
 - **Try a Serif/Sans-serif pairing.** You can often find a serif/sans-serif from the same family for certain fonts (e.g. Droid Sans, Droid Serif)
 - **You don't always have to pair fonts.** Depending on the font, you can sometimes get away with jsut using different weights of the same font.
 
+**Some Font Pairings:**
+- Freight Sans & Freight Text
+- Helvetica Neue & Georgia
+- Avenir & Minion
+- Istok Web and Lora
+
 Further Reading: http://webdesign.tutsplus.com/articles/a-beginners-guide-to-pairing-fonts--webdesign-5706
 Must-try Font Pairings: https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/
 
+
+## Contrast
+Your text should have a high contrast with the background of the page. This allows visitors to read the text clearly. While the obvious solution for this would be to have a pure black text with a pure white background, you can get a more natural look if you make the text *slightly* dark gray, and the background *slightly* off-white. Some shades I like to use are #1f1f1f for the text and ##fafafa for the background.
+
+
 ## Headings
-A heading font should be legible, draw attention, and have contrast with the body fonts
+A heading font should be legible, draw attention, and have contrast with the body fonts. Headings typically have a much heavier font weight than the body text.
 
 ### Type Scale
 A Type scale is a system to create different font sizes for different headings (e.g. H1, H2, H3, etc.)
