@@ -2,5 +2,5 @@
 
 In this video, you'll learn how to import icons into Sketch and use them in your designs.
 
-For our project, we'll be using: http://ionicons.com
+While some of Sketch's built-in templates have icons, for our project, we'll be using: http://ionicons.com
 
