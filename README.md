@@ -18,10 +18,18 @@ This includes things like the scope of the project, timeline, and the budget req
 
 **Goal:** Redesign blog to increase user engagement and decreased bounce rate with a clean look and feel that is approachable and inspires creativity.
 
+##Current challenges
+
+We need to improve:
+- The ugly design
+- The low traffic
+- The low engagement
+- The high bounce rate
+
 ## Steps to Take 
-- Determine areas of importance
-- Wireframe
-- Design
+- Determine areas of importance (Our current challenges above)
+- Wireframe the site to make sure we are addressing all the areas we need to improve
+- Design the User Interface
 
 
 
