@@ -1,7 +1,7 @@
 # Mobile-first Approach to Wireframing
 
 ##Wireframing
-Wireframing is an important in the design process that helps you define your information architecture, which helps you easier define the layout when desgining the UI.
+Wireframing helps you to define your layout and user interface without colours, typography and other visual aesthetics.
 
 A common design workflow is sketchign out ideas onf pencil and paper, then use the sketches to make digital wireframes.
 
