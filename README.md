@@ -1,7 +1,7 @@
 # Creating Typography Styles
 
 ## Selecting Fonts for Your Project
-Make sure the tone of the font is appropriate for your project and the feeling associated with your project. For example, if you're designign a website for a law firm, you would want to use fonts that are more traditional, and have a more professional look. Alternatively, if you were designign an app for pre-teens, you would want to use fonts that are "loud" and attract attention.
+Make sure the tone of the font is appropriate for your project and the feeling associated with your project. For example, if you're designing a website for a law firm, you would want to use fonts that are more traditional, and have a more professional look. Alternatively, if you were designing an app for pre-teens, you would want to use fonts that are "loud" and attract attention.
 
 Futher reading: https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/
 
