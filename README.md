@@ -29,3 +29,6 @@ A great improvement of Sketch over Photoshop for UI design is that Sketch includ
 
 ### Plugins
 Plugins allow you to extend the capabilities of Sketch with things like, measuring anntations, creating dummy content, and even prototyping. 
+
+
+**Further Reading:** https://medium.com/sketch-tricks/why-sketch-is-the-perfect-tool-for-interface-design-69ebb1da0744#.jo4y6gyez
