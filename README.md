@@ -20,6 +20,19 @@ Here is the style tile for the FreelanceJump redesign. As you can see, it's much
 
 ![](Style-Tile.png)
 
+### Colors 
+
+Here are the exact colors I'm using for the project:
+
+- Text:   #4A4A4A
+- Light Text: #9B9B9B
+- Blue:   #55ACEE
+- Dark Blue: #3B73B4
+- Green:  #7ED321
+- Red:    #CD201F
+- Dark Red: #D0021B
+- Orange: #F5A623
+
 
 **Resources:**
 - http://styletil.es
