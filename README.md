@@ -3,7 +3,7 @@ In this video, we'll create a wireframe for a mobile screen size.
 
 ![](Wireframe-Mobile.png)
 
-We'll start by creating the header navigation area with a dropdown menu icon.
+We'll start by creating the header navigation area with a dropdown menu icon using our iconset. We'll then resize it to 24x16px size.
 
 Next, we'll create the post content, then the sidebar content area, finally we'll wrap up with the footer content.
 
