@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/3.4.png)
+![](headings/3.4.png)
 
 # Creating a Desktop Wireframe
 
@@ -6,4 +6,4 @@ We will now wireframe the home page for the desktop screen size. The main from t
 
 As we're laying out the different components, we'll make sure to think of the principles of design we covered earlier. Even though this isn't the actual design itself, it still helps to make sure that we're laying a good foundation for it.
 
-![](User_Interface_Design_with_Sketch_3_handouts/Freelance-Jump-Wireframe.png)
+![](Freelance-Jump-Wireframe.png)
