@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/2.2.png)
+![](headings/2.2.png)
 
 # Sketch Workspace Setup
 In this video, we’ll set up the workspace in sketch. This will include preferences and installing some plugins.
