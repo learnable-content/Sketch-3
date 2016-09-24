@@ -1,3 +1,4 @@
+![](User_Interface_Design_with_Sketch_3_handouts/headings/2.3.png)
 # Principles of Design / Tips & Tricks
 Before we get into designing with Sketch, we’ll cover some basic principles of design as well as some tips for an easier design process.
 
