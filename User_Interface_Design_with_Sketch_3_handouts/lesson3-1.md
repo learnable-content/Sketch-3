@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/3.1.png)
+![](headings/3.1.png)
 
 # Mobile-first Approach to Wireframing
 
@@ -7,7 +7,7 @@ Wireframing helps you to define your layout and user interface without colours, 
 
 A common design workflow is sketchign out ideas on pencil and paper, then use the sketches to make digital wireframes.
 
-![](User_Interface_Design_with_Sketch_3_handouts/3-1-Wireframing-Overview.png)
+![](3-1-Wireframing-Overview.png)
 
 ### Different Wireframing Software
 
