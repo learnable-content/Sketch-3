@@ -1,9 +1,9 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/3.2.png)
+![](headings/3.2.png)
 
 # Creating a Mobile Wireframe
 In this video, we'll create a wireframe for a mobile screen size.
 
-![](User_Interface_Design_with_Sketch_3_handouts/Wireframe-Mobile.png)
+![](Wireframe-Mobile.png)
 
 We'll start by creating the header navigation area with a dropdown menu icon using our iconset. We'll then resize it to 24x16px size.
 
