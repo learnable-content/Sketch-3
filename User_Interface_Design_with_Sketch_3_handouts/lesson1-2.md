@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/1.2.png)
+![](headings/1.2.png)
 
 #Project Brief
 
