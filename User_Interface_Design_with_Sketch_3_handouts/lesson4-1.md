@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/4.1.png)
+![](headings/4.1.png)
 
 # Style Tiles
 A Style Tile is like a Style Guide without all the fuss.
@@ -20,7 +20,7 @@ Moodboard → Style Guide → Mockup
 
 Here is the style tile for the FreelanceJump redesign. As you can see, it's much more simple than the description above. There are a handful of objectives, a color palette, font families and sizes, and a couple of buttons.
 
-![](User_Interface_Design_with_Sketch_3_handouts/Style-Tile.png)
+![](Style-Tile.png)
 
 ### Colors 
 
