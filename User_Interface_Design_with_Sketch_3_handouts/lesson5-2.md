@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/5.2.png)
+![](headings/5.2.png)
 
 # Designing the Blog for Mobile
 
@@ -7,7 +7,7 @@ We'll start off with the featured blog post, then design the other posts, ending
 ## Artboard Setup
 First, we need to create the artboard to design on. Press "A" to quickly open up the artboard menu, and select iOS Devices > iPhone 6. You'll notice that it's 675px wide, so descrease the size of the artboard to 674 so we have a nice, even number to work with.
 
-![](User_Interface_Design_with_Sketch_3_handouts/5-2-artboard.png)
+![](5-2-artboard.png)
 
 Next, open up layout settings, and change the settings to the following:
  - Total Width: 360px
@@ -17,7 +17,7 @@ Next, open up layout settings, and change the settings to the following:
  - Gutter Width: 32px
  - Allow Column Width to calculate itself
  
-![](User_Interface_Design_with_Sketch_3_handouts/5-2-layout-settings.png)
+![](5-2-layout-settings.png)
 
 ### Designing the Featured Blog Post
 The featured post is bigger than any other blgo post and is supposed to grab the immediate attention of the visitor. This is very similar to the front page headline story you see on newspapers.
@@ -43,7 +43,7 @@ Finally, selct thse elements, and group them by pressing "CMD + g", and press "C
 
 This is what the end result should look like:
 
-![](User_Interface_Design_with_Sketch_3_handouts/5-2-featured-post.png)
+![](5-2-featured-post.png)
 
 
 ### Designing the Other Blog Posts
@@ -51,11 +51,11 @@ The other blog posts will be very similar to the featured blog post, but the hea
 
 You can create multiple blog posts of thse, with different categories and headlines. Make sure you match the color of the underline banner with the corresponding category. For this mobile view, I'll limit it to 8 blog posts, not counting the featured post.
 
-![](User_Interface_Design_with_Sketch_3_handouts/5-2-blog-1.png)
+![](5-2-blog-1.png)
 
 ### Designing Load More Button
 The load more button consists of two things: white text, and a blue rectangle with a drop shadow. For the white text, create a font size of 16px and create a text style of "H3/white-centered", for the button, create a rectangle using the base color of blue, and changed the height to 36px. Then, add a shadow of 4px with 0 blur, with a color of dark blue (hex: #3B73B4)\
 
-![](User_Interface_Design_with_Sketch_3_handouts/5-2-load-more.png)
+![](5-2-load-more.png)
 
 
