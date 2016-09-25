@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/5.3.png)
+![](headings/5.3.png)
 
 # Designing the Content Areas for Mobile
 
@@ -21,19 +21,19 @@ For creating the resources component, we'll create a content box with multiple l
 - Photo layer
 - Container layer.
 - 
-![](User_Interface_Design_with_Sketch_3_handouts/5-3-Resources.png)
+![](5-3-Resources.png)
 
 Once you've arranged all of these in order, group them in a group called "Resources" and right click on the container layer, and click on use as mask.
 
 ### Popular Posts
 The Popular posts widget consists of a widget title, and article titles. For the Popular Post title, use the stye "H2" that we created earlier, and then put a underline rectabgle with a 4px height and a "banner" style, and place it 8px below the title. For the Article Titles, use a text with 16px size and a bold weight, and create the text style named "Popular-Post", and space them 24px between each other, with the top one 16px below the underline banner.
 
-![](User_Interface_Design_with_Sketch_3_handouts/5-3-Popular-Posts.png)
+![](5-3-Popular-Posts.png)
 
 ### Freelance Guide
 The Freelancer Guide Widget will be designed similarly to that of the Resources widget. The main differences here will be the text being used.
 
-![](User_Interface_Design_with_Sketch_3_handouts/5-3-Ultimate-Guide.png)
+![](5-3-Ultimate-Guide.png)
 
 To finish off, we'll group together the sidebar content widgets and convert it into a symbol and name it "Sidebar/Mobile".
-![](User_Interface_Design_with_Sketch_3_handouts/5-3-Sidebar-Mobile.png)
+![](5-3-Sidebar-Mobile.png)
