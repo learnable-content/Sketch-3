@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/5.1.png)
+![](headings/5.1.png)
 
 #Designing the Header for Mobile
 
@@ -10,4 +10,4 @@ Open the course folder that can be download by clicking a button underneath the 
 
 Next place hamburger icon.
 
-![](User_Interface_Design_with_Sketch_3_handouts/5-1-header.png)
+![](5-1-header.png)
