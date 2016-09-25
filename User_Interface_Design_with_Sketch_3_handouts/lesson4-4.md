@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/4.4.png)
+![](headings/4.4.png)
 
 #Working with Icons
 
