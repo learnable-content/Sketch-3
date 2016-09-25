@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/7.3.png)
+![](headings/7.3.png)
 
 #Becoming a Better Designer
 
