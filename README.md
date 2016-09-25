@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/5.5.png)
+![](User_Interface_Design_with_Sketch_3_handouts/headings/5.5.png)
 
 # Designing the Footer for Mobile
 
