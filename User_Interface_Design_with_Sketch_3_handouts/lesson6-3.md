@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/6.3.png)
+![](headings/6.3.png)
 
 # Sketch Update
 
