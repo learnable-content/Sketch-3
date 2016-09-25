@@ -7,8 +7,7 @@ Now that we've designed the UI for both mobile and tablet screen sizes, we're go
 ## Artboard
 Create an artboard by pressing "A" and clicking Responsive Web Design > Desktop HD
 Change the layout settings to following:
-![](
-6-1-1-layout-settings.png)
+![](User_Interface_Design_with_Sketch_3_handouts/6-1-1-layout-settings.png)
 
 ## Header
 For the logo, use the "Logo-Desktop" SVG from your assets folder and use it for the desktop screen size. 
