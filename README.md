@@ -36,4 +36,5 @@ The Freelancer Guide Widget will be designed similarly to that of the Resources 
 ![](User_Interface_Design_with_Sketch_3_handouts/5-3-Ultimate-Guide.png)
 
 To finish off, we'll group together the sidebar content widgets and convert it into a symbol and name it "Sidebar/Mobile".
+
 ![](User_Interface_Design_with_Sketch_3_handouts/5-3-Sidebar-Mobile.png)
