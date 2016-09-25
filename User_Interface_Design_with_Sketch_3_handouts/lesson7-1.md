@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/7.1.png)
+![](headings/7.1.png)
 
 # Annotating Your Designs for Developers
 
@@ -16,4 +16,4 @@ The main two tools you'll be using are "measure size" (Shift + Ctrl + 2) and "me
 
 Do this for all the main elements throughout the document on all three artboards. You don't need to show the distance more than one time for repeating elements (i.e. blog posts).
 
-![](User_Interface_Design_with_Sketch_3_handouts/7-1-annotation.png)
+![](7-1-annotation.png)
