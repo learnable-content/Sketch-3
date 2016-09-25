@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/7.2.png)
+![](headings/7.2.png)
 
 # Preparing Deliverables
 
@@ -22,5 +22,5 @@ It's recommended that you deliver your project in a zipped folder that includes:
 
 This is how the project folder for our site looks like: 
 
-![](User_Interface_Design_with_Sketch_3_handouts/7-2-folder.png)
+![](7-2-folder.png)
 
