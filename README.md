@@ -1,3 +1,5 @@
+![](User_Interface_Design_with_Sketch_3_handouts/headings/4.3.png)
+
 # Working with Color Palettes
 
 While colors and branding are usually chosen by clients, we'll be doing this ourselves as it's our project.
@@ -21,4 +23,9 @@ Pick a color that goes well with your base color, it can be a complimentary colo
 
 Recommended reading: https://www.smashingmagazine.com/2016/04/web-developer-guide-color/
 
+Used colors:
 
+* `#55ACEe`
+* `#7ED321`
+* `#CD201F`
+* `#F5A623`
