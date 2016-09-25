@@ -1,4 +1,4 @@
-![](User_Interface_Design_with_Sketch_3_handouts/headings/7.4.png)
+![](headings/7.4.png)
 
 # Conclusion
 
