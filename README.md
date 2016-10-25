@@ -35,3 +35,7 @@ So let's get started!
 * [Lesson 7-2](User_Interface_Design_with_Sketch_3_handouts/lesson7-2.md)
 * [Lesson 7-3](User_Interface_Design_with_Sketch_3_handouts/lesson7-3.md)
 * [Lesson 7-4](User_Interface_Design_with_Sketch_3_handouts/lesson7-4.md)
+* [Lesson 8-1](User_Interface_Design_with_Sketch_3_handouts/lesson8-1.md)
+* [Lesson 8-2](User_Interface_Design_with_Sketch_3_handouts/lesson8-2.md)
+* [Lesson 8-3](User_Interface_Design_with_Sketch_3_handouts/lesson8-3.md)
+
